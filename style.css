@@ -89,3 +89,46 @@ button:hover{
     background-color: black;
     color: white;
 }
+
+.half{
+    background: #20A4F3;
+    padding: 140px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: ;
+    margin-left: 40px;
+    margin-top: 20px;
+    box-shadow: 10px 10px 40px;
+    float: left;
+    width: 800px;
+    
+}
+
+.last-half{
+    background: #20A4F3;
+    padding: 140px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: ;
+    margin-left: 40px;
+    margin-top: 20px;
+    box-shadow: 10px 10px 40px;
+    float: left;
+    width: 3050px;
+    text-align: center;
+    
+}
+
+input{
+    padding: 50px;
+    margin-left: 20px;
+    font-size: 50px;
+}
+
+h1{
+    color: red;
+    border-bottom: 1px solid greenyellow;
+}
+h2{
+    color: red;
+}
