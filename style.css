@@ -1,6 +1,6 @@
 body{
-    
-    margin:0px;
+    background-image: url(Myfirstrocket.jpg);
+    background-repeat: no-repeat;
 }
 
 .logo{
@@ -11,8 +11,8 @@ body{
     display: flex;
     text-align: center;
     height: 120px;
-    padding: 10px;
-    background-color: rgb(255, 0, 179);
+    padding: 60px;
+   
     
     
 }
@@ -22,13 +22,13 @@ body{
     display: flex;
     text-align: end;
     padding: 15px;
-    margin-left: 600px;
+    margin-left: 1700px;
 }
 .logo ul li{
     margin-left: 70px;
-    background-color: black;
+    background-color: ;
     text-align: center;
-    padding: 20px;
+    padding: 40px;
    
 }
 
@@ -36,16 +36,56 @@ body{
     text-decoration: none;
     font-family: 'Courier New', Courier, monospace;
     color: white;
-    
+    font-size: 30px;
+    text-align: center;
+    transition-duration: 1s;
+}
+
+.logo ul li a:hover{
+    font-size: 50px;
 }
 
 .logo h2{
 
     margin-left: 60px;
     color: aliceblue;
-    font-family: 'Courier New', Courier, monospace;
+    font-family:bold;
+    font-size: 30px;
 }
 span{
-    color: rgb(63, 20, 220);
+    color: rgb(212, 23, 23);
+    font-size: 100px;
+}
+
+.box-1{
+
+    border:;
+    text-align: center;
+    color: rgb(217, 224, 230);
     font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 100px;
+    
+
+}
+.box-1 h1{
+    font-size: 110px;
+    word-spacing: 10%;
+    letter-spacing: 10px;
+}
+button{
+    
+    color: ;
+    padding: 5px;
+    border-radius: ;
+    width: 220px;
+    height: 70px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button:hover{
+
+    background-color: black;
+    color: white;
 }
